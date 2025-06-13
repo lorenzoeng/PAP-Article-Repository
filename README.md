@@ -19,8 +19,8 @@ Supplementary File (SF) Description and Contents:
 
 - SF 3 - Results of independent intervention analyses
 
-Table 1. Independent Intervention fixed effect model estimates
-Table 2. Independent Intervention random effect decomposition model estimates
+Table 1. Independent Intervention fixed effect model estimates                                                
+Table 2. Independent Intervention random effect decomposition model estimates                                                
 Table 3. Independent Intervention correlation estimates between random effects         
 
 - SF 4 - Results of combined intervention analyses                                         
