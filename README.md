@@ -27,7 +27,7 @@ Table 3. Independent Intervention correlation estimates between random effects
 
  Table 1. Combined Intervention Baseline vs Null model comparison statistics            
  Figure 1. Variance Decomposition of Combined Intervention Models                       
- Table 2. Combined Intervention random effect decomposition model estimates
+ Table 2. Combined Intervention random effect decomposition model estimates                                                
  Table 3. Combined Intervention correlation estimates between random effects              
  Table 4. Combined Intervention fixed effects model parameter estimates
 
