@@ -14,8 +14,8 @@ Supplementary File (SF) Description and Contents:
  Figure 3. Baseline TT/MVIC and TT Response                                             
 - SF 3 - Results of independent intervention analyses
   Table 1. Independent Intervention fixed effect model estimates
-  Table 2. Independent Intervention random effect decomposition model estimates
-  Table 3. Independent Intervention correlation estimates between random effects         
+ Table 2. Independent Intervention random effect decomposition model estimates
+ Table 3. Independent Intervention correlation estimates between random effects         
 - SF 4 - Results of combined intervention analyses                                         
  Table 1. Combined Intervention Baseline vs Null model comparison statistics            
  Figure 1. Variance Decomposition of Combined Intervention Models                       
